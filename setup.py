@@ -12,11 +12,12 @@ sdict = {
     'name': 'blueprint-decr',
     'version': "0.1.0",
     'license': 'MIT',
-    'packages': ['blueprint_decr']
+    'packages': ['blueprint_decr'],
     'zip_safe': False,
     'install_requires': ['six'],
     'long_description': long_description,
     'author': 'Lichun',
+    'url': 'https://github.com/socrateslee/blueprint-decr',
     'classifiers': [
         'Environment :: Console',
         'Framework :: Flask',
