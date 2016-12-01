@@ -2,6 +2,11 @@
 
 A tiny python lib for decorating all view functions of a flask blueprint.
 
+## install
+```
+pip install blueprint-decr
+```
+
 ## usage
 ```
 # api_blueprint is a blueprint object
